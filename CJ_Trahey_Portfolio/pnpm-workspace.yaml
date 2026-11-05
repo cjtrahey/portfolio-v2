@@ -1,0 +1,8 @@
+packages:
+  - '.'
+storeDir: .pnpm-store
+nodeLinker: hoisted
+packageImportMethod: copy
+enableGlobalVirtualStore: false
+fetchRetries: 0
+fetchTimeout: 15000
